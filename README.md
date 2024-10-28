@@ -23,12 +23,12 @@
     <h2>우리의 제품</h2>
     <div>
         <h3>은빛 훈제란</h3>
-        <img src="media/훈제.jpg" width=200 height=200 alt="훈제란 이미지">
+        <img src="훈제.jpg" width=200 height=200 alt="훈제란 이미지">
         <button>바로 구매</button>
     </div>
     <div>
         <h3>촉촉한 은빛 반숙란</h3>
-        <img src="media/반숙.jpg" width=200 height=200 alt="반숙란 이미지">
+        <img src="반숙.jpg" width=200 height=200 alt="반숙란 이미지">
         <button>바로 구매</button>
     </div>
     <!-- 3. 검색창 -->
